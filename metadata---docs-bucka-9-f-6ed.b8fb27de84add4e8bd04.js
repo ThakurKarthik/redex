@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{49:function(e){e.exports=JSON.parse('{"id":"buck","title":"Using ReDex with Buck","description":"ReDex already has a deep integration with BUCK. \\r","source":"@site/..\\\\docs\\\\buck.md","permalink":"/docs/buck","lastUpdatedBy":"Joel Marcey","lastUpdatedAt":1550798689}')}}]);
