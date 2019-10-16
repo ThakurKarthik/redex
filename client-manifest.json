@@ -54,38 +54,38 @@
     "@site/..\\docs\\usage.md": [
       13
     ],
-    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\docs-b5f.json": [
+    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\redex-docs-5ca.json": [
       14
     ],
     "main": [
       25,
       15
     ],
-    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\docs-buck-786.json": [
+    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\redex-docs-buck-23c.json": [
       16
     ],
-    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\docs-configuring-98d.json": [
+    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\redex-docs-configuring-52f.json": [
       17
     ],
-    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\docs-docker-2bb.json": [
+    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\redex-docs-docker-188.json": [
       18
     ],
-    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\docs-faq-019.json": [
+    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\redex-docs-faq-002.json": [
       19
     ],
-    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\docs-installation-422.json": [
+    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\redex-docs-installation-759.json": [
       20
     ],
-    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\docs-interdex-8f8.json": [
+    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\redex-docs-interdex-640.json": [
       21
     ],
-    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\docs-proguard-60e.json": [
+    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\redex-docs-proguard-277.json": [
       22
     ],
-    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\docs-synth-c69.json": [
+    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\redex-docs-synth-c1d.json": [
       23
     ],
-    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\docs-usage-8cf.json": [
+    "C:\\Users\\iamka\\Documents\\development\\oss\\redex\\website\\.docusaurus\\docusaurus-plugin-content-docs\\redex-docs-usage-f63.json": [
       24
     ],
     "runtime~main": [
@@ -108,14 +108,14 @@
         {
           "file": "0.4b6b47aa5e3c93eeb1e7.css",
           "hash": "74e2c8a6bb46e61ba30e",
-          "publicPath": "/0.4b6b47aa5e3c93eeb1e7.css"
+          "publicPath": "/redex/0.4b6b47aa5e3c93eeb1e7.css"
         }
       ],
       "js": [
         {
           "file": "0.ab470b1d243b785a50f1.js",
           "hash": "74e2c8a6bb46e61ba30e",
-          "publicPath": "/0.ab470b1d243b785a50f1.js"
+          "publicPath": "/redex/0.ab470b1d243b785a50f1.js"
         }
       ]
     },
@@ -124,16 +124,16 @@
         {
           "file": "component---site-src-pages-faq-jsa-48-8a3.fe0e43fcdd80880a67aa.js",
           "hash": "2f01b2b30cdbe8b1733f",
-          "publicPath": "/component---site-src-pages-faq-jsa-48-8a3.fe0e43fcdd80880a67aa.js"
+          "publicPath": "/redex/component---site-src-pages-faq-jsa-48-8a3.fe0e43fcdd80880a67aa.js"
         }
       ]
     },
     "2": {
       "js": [
         {
-          "file": "component---site-src-pages-index-jsece-a18.50a1bea5b3651fbe620e.js",
-          "hash": "f0ee83396a71754e95fd",
-          "publicPath": "/component---site-src-pages-index-jsece-a18.50a1bea5b3651fbe620e.js"
+          "file": "component---site-src-pages-index-jsece-a18.c66c5ce1e231bdc2d14a.js",
+          "hash": "78d8836b8036717ea26c",
+          "publicPath": "/redex/component---site-src-pages-index-jsece-a18.c66c5ce1e231bdc2d14a.js"
         }
       ]
     },
@@ -142,14 +142,14 @@
         {
           "file": "component---theme-doc-item-178-a40.de2648345892298aff25.css",
           "hash": "ce20c4dc35702a2319ec",
-          "publicPath": "/component---theme-doc-item-178-a40.de2648345892298aff25.css"
+          "publicPath": "/redex/component---theme-doc-item-178-a40.de2648345892298aff25.css"
         }
       ],
       "js": [
         {
           "file": "component---theme-doc-item-178-a40.e0d35aec50d7c7aaa812.js",
           "hash": "ce20c4dc35702a2319ec",
-          "publicPath": "/component---theme-doc-item-178-a40.e0d35aec50d7c7aaa812.js"
+          "publicPath": "/redex/component---theme-doc-item-178-a40.e0d35aec50d7c7aaa812.js"
         }
       ]
     },
@@ -158,97 +158,97 @@
         {
           "file": "component---theme-doc-page-1-be-9be.de09a1a8cec9a2e9c92b.js",
           "hash": "a97bf1effd2bbaba6e3f",
-          "publicPath": "/component---theme-doc-page-1-be-9be.de09a1a8cec9a2e9c92b.js"
+          "publicPath": "/redex/component---theme-doc-page-1-be-9be.de09a1a8cec9a2e9c92b.js"
         }
       ]
     },
     "5": {
       "js": [
         {
-          "file": "content---docs-buck-227-233.91769901218b2a4282d9.js",
-          "hash": "068442bb522f27dcd38b",
-          "publicPath": "/content---docs-buck-227-233.91769901218b2a4282d9.js"
+          "file": "content---redex-docs-buck-227-a8d.91769901218b2a4282d9.js",
+          "hash": "7b7fb7b93ec9db32855a",
+          "publicPath": "/redex/content---redex-docs-buck-227-a8d.91769901218b2a4282d9.js"
         }
       ]
     },
     "6": {
       "js": [
         {
-          "file": "content---docs-configuring-13-a-a5d.9008c5375d7b6da516c9.js",
-          "hash": "adee0f0d4fc862ed3ee8",
-          "publicPath": "/content---docs-configuring-13-a-a5d.9008c5375d7b6da516c9.js"
+          "file": "content---redex-docs-configuring-13-a-322.9008c5375d7b6da516c9.js",
+          "hash": "1a75b899a31ab2b13f6a",
+          "publicPath": "/redex/content---redex-docs-configuring-13-a-322.9008c5375d7b6da516c9.js"
         }
       ]
     },
     "7": {
       "js": [
         {
-          "file": "content---docs-docker-803-e77.41dad4a42351914216ed.js",
-          "hash": "5f75ce63e0b1ac7eaf8e",
-          "publicPath": "/content---docs-docker-803-e77.41dad4a42351914216ed.js"
+          "file": "content---redex-docs-docker-803-518.e8eb8b197337e438bb05.js",
+          "hash": "0097059556cbf4d10ac3",
+          "publicPath": "/redex/content---redex-docs-docker-803-518.e8eb8b197337e438bb05.js"
         }
       ]
     },
     "8": {
       "js": [
         {
-          "file": "content---docs-faqf-0-e-366.ea2fefe8b3c6cbad18d8.js",
-          "hash": "2594e6e0d10fae210b23",
-          "publicPath": "/content---docs-faqf-0-e-366.ea2fefe8b3c6cbad18d8.js"
+          "file": "content---redex-docs-faqf-0-e-3d3.19b0188d7ad748519051.js",
+          "hash": "3b2f77eac54c6afc4d79",
+          "publicPath": "/redex/content---redex-docs-faqf-0-e-3d3.19b0188d7ad748519051.js"
         }
       ]
     },
     "9": {
       "js": [
         {
-          "file": "content---docs-installation-5-fd-fc9.cf1dd962c5c312ff9248.js",
-          "hash": "f3bc7bc31559741d94e5",
-          "publicPath": "/content---docs-installation-5-fd-fc9.cf1dd962c5c312ff9248.js"
+          "file": "content---redex-docs-installation-5-fd-caf.f704931bf92b0c200bd0.js",
+          "hash": "8abd52bbdb199e9852c9",
+          "publicPath": "/redex/content---redex-docs-installation-5-fd-caf.f704931bf92b0c200bd0.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "content---docs-interdex-550-777.93a07a26550d8cc598c8.js",
-          "hash": "11abb62f46ef736fa62c",
-          "publicPath": "/content---docs-interdex-550-777.93a07a26550d8cc598c8.js"
+          "file": "content---redex-docs-interdex-550-886.d22604bd621a295da2e4.js",
+          "hash": "6aab60458d5556217ae5",
+          "publicPath": "/redex/content---redex-docs-interdex-550-886.d22604bd621a295da2e4.js"
         }
       ]
     },
     "11": {
       "js": [
         {
-          "file": "content---docs-proguard-481-f36.3f7b4f6ec260c4ea51d9.js",
-          "hash": "31c5fda14539f3fc6496",
-          "publicPath": "/content---docs-proguard-481-f36.3f7b4f6ec260c4ea51d9.js"
+          "file": "content---redex-docs-proguard-481-913.b8e4665127d292ef4c04.js",
+          "hash": "6cbe442c922c2afe54da",
+          "publicPath": "/redex/content---redex-docs-proguard-481-913.b8e4665127d292ef4c04.js"
         }
       ]
     },
     "12": {
       "js": [
         {
-          "file": "content---docs-synth-925-9b3.f574de8886e698b0af07.js",
-          "hash": "ca5cd769bec9879b9bda",
-          "publicPath": "/content---docs-synth-925-9b3.f574de8886e698b0af07.js"
+          "file": "content---redex-docs-synth-925-331.a8ee64c1f9058d950804.js",
+          "hash": "1b9bb587e623b2a57bf4",
+          "publicPath": "/redex/content---redex-docs-synth-925-331.a8ee64c1f9058d950804.js"
         }
       ]
     },
     "13": {
       "js": [
         {
-          "file": "content---docs-usage-545-48f.53d8b53bc79202f6f929.js",
-          "hash": "381413515b71f84389ce",
-          "publicPath": "/content---docs-usage-545-48f.53d8b53bc79202f6f929.js"
+          "file": "content---redex-docs-usage-545-444.cf467f524da1d5ba31a6.js",
+          "hash": "bf7d526870fd9db84c59",
+          "publicPath": "/redex/content---redex-docs-usage-545-444.cf467f524da1d5ba31a6.js"
         }
       ]
     },
     "14": {
       "js": [
         {
-          "file": "docsMetadata---docsaf-7-b03.3c98a32bbffa68a8c5ed.js",
-          "hash": "84fbdf874f558e759d2e",
-          "publicPath": "/docsMetadata---docsaf-7-b03.3c98a32bbffa68a8c5ed.js"
+          "file": "docsMetadata---redex-docse-2-f-64f.5cd393c29633a89c4ac9.js",
+          "hash": "41efa7ae5df5c79a7262",
+          "publicPath": "/redex/docsMetadata---redex-docse-2-f-64f.5cd393c29633a89c4ac9.js"
         }
       ]
     },
@@ -256,105 +256,105 @@
       "css": [
         {
           "file": "main.6fa84909da645225b981.css",
-          "hash": "ae5e527357702c8b666e",
-          "publicPath": "/main.6fa84909da645225b981.css"
+          "hash": "8551c6f623cd256d27e4",
+          "publicPath": "/redex/main.6fa84909da645225b981.css"
         }
       ],
       "js": [
         {
-          "file": "main.ea1c23107cb85bc6926f.js",
-          "hash": "ae5e527357702c8b666e",
-          "publicPath": "/main.ea1c23107cb85bc6926f.js"
+          "file": "main.763ba19c0609f3cf81b5.js",
+          "hash": "8551c6f623cd256d27e4",
+          "publicPath": "/redex/main.763ba19c0609f3cf81b5.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "metadata---docs-bucka-9-f-6ed.c9616d5db62d0dda5725.js",
-          "hash": "e2a26cfa7999264db4d4",
-          "publicPath": "/metadata---docs-bucka-9-f-6ed.c9616d5db62d0dda5725.js"
+          "file": "metadata---redex-docs-buckcf-2-901.ac2a79b31779edafbc7a.js",
+          "hash": "c6f946ec0180e033e831",
+          "publicPath": "/redex/metadata---redex-docs-buckcf-2-901.ac2a79b31779edafbc7a.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "metadata---docs-configuring-8-d-4-aba.f8521f944206982a61e0.js",
-          "hash": "3fc8973e480bf145ee24",
-          "publicPath": "/metadata---docs-configuring-8-d-4-aba.f8521f944206982a61e0.js"
+          "file": "metadata---redex-docs-configuring-67-a-4d6.bc606733be41da5d395c.js",
+          "hash": "59d68bbb17eec56fa0d7",
+          "publicPath": "/redex/metadata---redex-docs-configuring-67-a-4d6.bc606733be41da5d395c.js"
         }
       ]
     },
     "18": {
       "js": [
         {
-          "file": "metadata---docs-docker-637-66c.12357c07a7cba9a9fc3c.js",
-          "hash": "411e43d4dbee9a451eea",
-          "publicPath": "/metadata---docs-docker-637-66c.12357c07a7cba9a9fc3c.js"
+          "file": "metadata---redex-docs-dockerd-2-b-96b.f93646ca8d080c5c61d6.js",
+          "hash": "ed9903303b764a0308e9",
+          "publicPath": "/redex/metadata---redex-docs-dockerd-2-b-96b.f93646ca8d080c5c61d6.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "metadata---docs-faq-1-a-7-86f.7de0eae1382c495578fb.js",
-          "hash": "00e196dbb3630ad26bfe",
-          "publicPath": "/metadata---docs-faq-1-a-7-86f.7de0eae1382c495578fb.js"
+          "file": "metadata---redex-docs-faq-78-f-205.9026196e085be0960497.js",
+          "hash": "f86fca55bb0f9be6f24f",
+          "publicPath": "/redex/metadata---redex-docs-faq-78-f-205.9026196e085be0960497.js"
         }
       ]
     },
     "20": {
       "js": [
         {
-          "file": "metadata---docs-installatione-1-c-9ed.4cfa78289d4eb8be8cde.js",
-          "hash": "4709acb0923836c2b668",
-          "publicPath": "/metadata---docs-installatione-1-c-9ed.4cfa78289d4eb8be8cde.js"
+          "file": "metadata---redex-docs-installation-30-a-603.9d4f4573105f728eb1fb.js",
+          "hash": "f06c1e6bdb46354f05bf",
+          "publicPath": "/redex/metadata---redex-docs-installation-30-a-603.9d4f4573105f728eb1fb.js"
         }
       ]
     },
     "21": {
       "js": [
         {
-          "file": "metadata---docs-interdex-71-b-b2f.b88c6a3f9ab12e96a78d.js",
-          "hash": "1695850930d0eaa4fd31",
-          "publicPath": "/metadata---docs-interdex-71-b-b2f.b88c6a3f9ab12e96a78d.js"
+          "file": "metadata---redex-docs-interdexcdc-d44.25f2ec3477fccde3a9c9.js",
+          "hash": "2aebff8d42356d7a45a3",
+          "publicPath": "/redex/metadata---redex-docs-interdexcdc-d44.25f2ec3477fccde3a9c9.js"
         }
       ]
     },
     "22": {
       "js": [
         {
-          "file": "metadata---docs-proguardc-0-c-841.dfa1c2a3c9f6e7b6347f.js",
-          "hash": "181db0204d37cffa326d",
-          "publicPath": "/metadata---docs-proguardc-0-c-841.dfa1c2a3c9f6e7b6347f.js"
+          "file": "metadata---redex-docs-proguard-66-d-171.84e07828f2755591b31b.js",
+          "hash": "8220936f7d57e61cceaf",
+          "publicPath": "/redex/metadata---redex-docs-proguard-66-d-171.84e07828f2755591b31b.js"
         }
       ]
     },
     "23": {
       "js": [
         {
-          "file": "metadata---docs-synthba-2-2d4.0d5b23fc6dde44360e19.js",
-          "hash": "c36701b5cadf60cd1be4",
-          "publicPath": "/metadata---docs-synthba-2-2d4.0d5b23fc6dde44360e19.js"
+          "file": "metadata---redex-docs-synth-885-2c0.a431d39e16916e7c3d09.js",
+          "hash": "1ddf4f1ac62f52160d46",
+          "publicPath": "/redex/metadata---redex-docs-synth-885-2c0.a431d39e16916e7c3d09.js"
         }
       ]
     },
     "24": {
       "js": [
         {
-          "file": "metadata---docs-usage-7-f-3-d1f.1dfef6232b9e1ad27cca.js",
-          "hash": "fcfad4f7007e24ea46b5",
-          "publicPath": "/metadata---docs-usage-7-f-3-d1f.1dfef6232b9e1ad27cca.js"
+          "file": "metadata---redex-docs-usagec-7-d-5cf.e9ed2efaa92091e5d752.js",
+          "hash": "9b5b74a24cc5f1774ceb",
+          "publicPath": "/redex/metadata---redex-docs-usagec-7-d-5cf.e9ed2efaa92091e5d752.js"
         }
       ]
     },
     "25": {
       "js": [
         {
-          "file": "runtime~main.3aab023564e8ef05585c.js",
-          "hash": "8ee79f9e6250550e4a4e",
-          "publicPath": "/runtime~main.3aab023564e8ef05585c.js"
+          "file": "runtime~main.125447244e011ca5f029.js",
+          "hash": "bfdb87d3018883c74ace",
+          "publicPath": "/redex/runtime~main.125447244e011ca5f029.js"
         }
       ]
     },
@@ -363,14 +363,14 @@
         {
           "file": "26.83fe3ec1d8a1843e16c8.css",
           "hash": "10bdce0186d795c97ccf",
-          "publicPath": "/26.83fe3ec1d8a1843e16c8.css"
+          "publicPath": "/redex/26.83fe3ec1d8a1843e16c8.css"
         }
       ],
       "js": [
         {
           "file": "26.4d43b3044a97b939d9c5.js",
           "hash": "10bdce0186d795c97ccf",
-          "publicPath": "/26.4d43b3044a97b939d9c5.js"
+          "publicPath": "/redex/26.4d43b3044a97b939d9c5.js"
         }
       ]
     },
@@ -379,7 +379,7 @@
         {
           "file": "27.57ea1f0e13c76d575b4a.js",
           "hash": "303a5270e9151a035328",
-          "publicPath": "/27.57ea1f0e13c76d575b4a.js"
+          "publicPath": "/redex/27.57ea1f0e13c76d575b4a.js"
         }
       ]
     }
